@@ -1,0 +1,18 @@
+pillar,kpi,v_2025,v_2024,unit,source
+S,Headcount (31 Dec),17778.0,15805.0,employees,AR2025 S1-6 p.187
+S,Women in workforce,47.3,47.5,%,"AR2025 S1-6 (8,407/17,778)"
+S,Women in top-5 management levels,37.4,36.9,%,AR2025 S1-9 p.188
+S,Unadjusted gender pay gap,14.5,15.4,%,AR2025 S1-16 p.194
+S,Adjusted gender pay gap,1.4,1.4,%,AR2025 S1-16 p.194
+S,Employee turnover (all leavers),18.0,14.7,%,AR2025 S1-6 p.188
+S,Recordable accident rate,50.8,43.5,per 1m hours,AR2025 S1-14 p.193
+S,Logistics lost-time accident rate,9.9,12.7,per 1m hours,AR2025 S1-14 p.193
+S,Work-related fatalities,0.0,0.0,count,AR2025 S1-14
+S,Collective bargaining coverage,1.0,1.0,% (<1%),AR2025 S1-8 p.191
+S,Social audit reports evaluated (PL Tier 1),198.0,149.0,count,AR2025 S2-2/3
+G,Supervisory board size,9.0,9.0,members,AR2025 p.128
+G,Women on supervisory board,55.6,55.6,%,AR2025 p.128
+G,Independent shareholder reps,83.0,83.0,%,AR2025 p.128 (5 of 6)
+G,Annual total remuneration ratio,50.4,48.5,x median,AR2025 S1-16 p.194
+G,Confirmed corruption/bribery incidents,0.0,0.0,count,AR2025 G1-4 p.220
+G,ESG modifier in management LTI,50.0,50.0,% of modifier (sustainability),AR2025 Remuneration report

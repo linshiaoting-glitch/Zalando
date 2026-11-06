@@ -1,0 +1,9 @@
+metric,target_type,base_year,base_value_t,target_year,target_reduction,progress_2025,status_note
+Scope 1+2 (market-based),1st-gen SBT,2017.0,26136.0,2025,0.8,0.808,Achieved: -80.8% vs 2017
+Scope 1+2 (market-based),Near-term SBT,2022.0,6342.0,2033,0.55,0.17,-17.0% vs 2022 by 2025
+Scope 1+2 (market-based),Long-term net-zero,2022.0,6342.0,2040,0.9,0.17,Net-zero own ops 2040
+Scope 3 cat. 1+4,Near-term SBT (WB2C),2022.0,2090085.0,2033,0.33,0.106,-10.6% vs 2022 by 2025
+Scope 3 cat. 1+4,Long-term net-zero,2022.0,2090085.0,2050,0.9,0.106,Net-zero value chain 2050
+Supplier SBT coverage (by emissions),Engagement target,,,2025,0.9,0.741,74.1% vs 90% target - MISSED
+Private-label Scope 3 intensity / gross profit,1st-gen SBT,2018.0,,2025,0.4,0.368,-36.8% vs -40% target - MISSED
+Renewable electricity,RE100,,,2025,1.0,1.0,100% since 2020
